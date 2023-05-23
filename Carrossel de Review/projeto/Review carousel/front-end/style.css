@@ -1,0 +1,106 @@
+
+body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-height: 85vh;
+    max-height: 100vh;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 3rem;
+    width: 600px;
+}
+
+
+.img_employeer{
+    position: relative;
+}
+
+.marks{
+    background-color: #49a9ee;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Lily Script One', cursive;
+    border-radius: 50%;
+    color: white;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+}
+
+.photo, .background-photo{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+
+.photo{
+    background-color: rgb(129, 128, 128);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.background-photo{
+    position: absolute;
+    bottom: 10px;
+    z-index: -1;
+    left: 14px;
+    background-color:  #49a9ee;
+}
+
+
+.name{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 5px;
+    margin-bottom:0;
+}
+
+.job{
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #68baf5;
+    font-family: 'Roboto', sans-serif;
+}
+
+.review{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #5e7e97;
+    font-weight: 500;
+}
+
+.buttons{
+    display: flex;
+    
+}
+.buttons div{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    color: #68baf5;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    cursor:pointer;
+}
+
+.surprise_me{
+    margin-top: 2rem;
+    color: #68baf5;
+    width: 20%;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 2px solid #49a9ee;
+    box-shadow: 1px 1px 1px 1px #000;
+    cursor: pointer;
+}
