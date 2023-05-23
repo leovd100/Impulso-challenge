@@ -1,0 +1,60 @@
+{
+    "products":[
+
+        {
+            "id": 1,
+            "name": "God of war",
+            "img" : "https://cdn1.epicgames.com/offer/3ddd6a590da64e3686042d108968a6b2/EGS_GodofWar_SantaMonicaStudio_S2_1200x1600-fbdf3cbc2980749091d52751ffabb7b7_1200x1600-fbdf3cbc2980749091d52751ffabb7b7"
+        },
+        {
+            "id": 2,
+            "name": "The last of us",
+            "img" : "https://upload.wikimedia.org/wikipedia/pt/b/be/The_Last_of_Us_capa.png"
+        },
+        {
+            "id": 3,
+            "name": "Halo",
+            "img" : "https://store-images.s-microsoft.com/image/apps.21536.13727851868390641.c9cc5f66-aff8-406c-af6b-440838730be0.68796bde-cbf5-4eaa-a299-011417041da6"
+        },
+        {
+            "id": 4,
+            "name": "Resident Evil 4",
+            "img" : "https://d5gag3xtge2og.cloudfront.net/producao/33301548/G/resident.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Atomic Heart",
+            "img" : "https://sm.ign.com/ign_br/game/a/atomic-hea/atomic-heart_8z9d.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Dying Light",
+            "img" : "https://upload.wikimedia.org/wikipedia/pt/1/19/Dying_Light_2_capa.jpg?20220203005159"
+        },
+        {
+            "id": 7,
+            "name": "Rocket League",
+            "img" : "https://cdn1.epicgames.com/offer/9773aa1aa54f4f7b80e44bef04986cea/EGS_RocketLeague_PsyonixLLC_S2_1200x1600-689a36ce5c8643ff37c1483d68be7d6e"
+        },
+        {
+            "id": 8,
+            "name": "Life is Stranger",
+            "img" : "https://upload.wikimedia.org/wikipedia/pt/5/5f/LIS_Before_the_Storm_capa.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Uncharted 4",
+            "img" : "https://image.api.playstation.com/vulcan/img/rnd/202010/2620/gPTPUF3mT9FXELav8OKXmr9j.png"
+        },
+        {
+            "id": 10,
+            "name": "GTA 5",
+            "img" : "https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/global/games/fob/1280/V.jpg"
+        }
+
+
+    ]
+
+
+
+}
