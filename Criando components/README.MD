@@ -1,5 +1,9 @@
 # CRIAÇÃO DE COMPONENTS JAVASCRIPT
 
+[link do projeto no discord](https://discord.com/channels/713050127270674442/1109099594232639498)
+
+---
+
 Neste desafio você deve criar um component da sua preferência em javaScript puro. 
 Esse desafio será importante para entender DOM, SHADOW DOM e VIRTUAL DOM. 
 
