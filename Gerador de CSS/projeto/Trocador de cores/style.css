@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container_info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 70px;
+    background: #011027;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 5rem;
+    border-radius: 10px;
+}
+
+.container_info p{
+    
+    text-align: center;
+    font-size: 32px;
+    color: #fff;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    width: 180px;
+    height: 50px;
+    border: 3px solid rgb(16, 18, 134);
+    border-radius: 5px;
+    background: transparent;
+    box-shadow: 0 0 2px 1px #000 inset;
+}
